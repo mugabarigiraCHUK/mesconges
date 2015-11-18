@@ -1,0 +1,1 @@
+Permet de gérer la liste des congés avec un compteur. Les congés sont automatiquement ajoutés dans le calendrier Google.
